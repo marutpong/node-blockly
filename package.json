@@ -1,5 +1,5 @@
 {
-  "name": "node-blockly",
+  "name": "node-pxt-blockly",
   "version": "1.2.8",
   "description": "Blockly for Node.js and Browser as CommonJS module",
   "main": "index.js",
